@@ -1,0 +1,160 @@
+Rank,Country,Value,Year
+1,South Africa,63.00,2014
+2,Namibia,59.10,2015
+3,Suriname,57.60,1999
+4,Zambia,57.10,2015
+5,Central African Republic,56.20,2008
+6,Lesotho,54.20,2010
+7,Mozambique,54.00,2014
+8,Belize,53.30,1999
+8,Brazil,53.30,2017
+8,Botswana,53.30,2015
+11,Eswatini,51.50,2009
+12,St. Lucia,51.20,2016
+13,Guinea-Bissau,50.70,2010
+14,Honduras,50.50,2017
+15,Panama,49.90,2017
+16,Colombia,49.70,2017
+17,Congo,48.90,2011
+18,Paraguay,48.80,2017
+19,Guatemala,48.30,2014
+19,Costa Rica,48.30,2017
+19,Mexico,48.30,2016
+22,Benin,47.80,2015
+23,Cabo Verde,47.20,2007
+24,Venezuela,46.90,2006
+25,Seychelles,46.80,2013
+26,Chile,46.60,2017
+26,Cameroon,46.60,2014
+28,Nicaragua,46.20,2014
+29,Dominican Republic,45.70,2016
+30,Jamaica,45.50,2004
+31,Comoros,45.30,2013
+32,Malawi,44.70,2016
+32,Ecuador,44.70,2017
+34,Guyana,44.60,1998
+35,Philippines,44.40,2015
+36,Bolivia,44.00,2017
+37,Rwanda,43.70,2016
+38,Ghana,43.50,2016
+39,Peru,43.30,2017
+39,Chad,43.30,2011
+41,Zimbabwe,43.20,2011
+42,Togo,43.10,2015
+43,Nigeria,43.00,2009
+44,Uganda,42.80,2016
+45,Angola,42.70,2008
+46,Madagascar,42.60,2012
+47,Dem. Rep. Congo,42.10,2012
+48,Turkey,41.90,2016
+48,Papua New Guinea,41.90,2009
+50,Djibouti,41.60,2017
+51,Côte d'Ivoire,41.50,2015
+51,United States,41.50,2016
+53,Argentina,41.20,2017
+54,Haiti,41.10,2012
+55,Malaysia,41.00,2015
+56,Kenya,40.80,2015
+56,Turkmenistan,40.80,1998
+58,Senegal,40.30,2011
+58,Trinidad and Tobago,40.30,1992
+60,Iran,40.00,2016
+61,Sri Lanka,39.80,2016
+62,Serbia,39.60,2015
+63,Morocco,39.50,2013
+63,Uruguay,39.50,2017
+65,Tuvalu,39.10,2010
+66,Israel,38.90,2016
+67,Samoa,38.70,2013
+68,Burundi,38.60,2013
+68,China,38.60,2015
+70,Mauritius,38.50,2012
+71,Indonesia,38.10,2017
+71,Myanmar,38.10,2015
+73,El Salvador,38.00,2017
+73,Gabon,38.00,2017
+75,Georgia,37.90,2017
+76,Tanzania,37.80,2011
+77,Russia,37.70,2015
+78,Vanuatu,37.60,2010
+78,Tonga,37.60,2015
+80,Lithuania,37.40,2015
+80,Bhutan,37.40,2017
+80,Bulgaria,37.40,2014
+83,Solomon Islands,37.10,2013
+84,Kiribati,37.00,2006
+85,Fiji,36.70,2013
+85,Yemen,36.70,2014
+87,Thailand,36.50,2017
+88,Lao PDR,36.40,2012
+89,Spain,36.20,2015
+90,Greece,36.00,2015
+91,The Gambia,35.90,2015
+91,Romania,35.90,2015
+93,Australia,35.80,2014
+93,Syrian Arab Republic,35.80,2004
+95,India,35.70,2011
+96,North Macedonia,35.60,2015
+97,Portugal,35.50,2015
+98,Sudan,35.40,2009
+98,Italy,35.40,2015
+100,Burkina Faso,35.30,2014
+100,Liberia,35.30,2016
+100,Vietnam,35.30,2016
+100,Uzbekistan,35.30,2003
+104,Ethiopia,35.00,2015
+105,Niger,34.30,2014
+106,Latvia,34.20,2015
+107,Sierra Leone,34.00,2011
+107,Tajikistan,34.00,2015
+107,Canada,34.00,2013
+107,Cyprus,34.00,2015
+111,Luxembourg,33.80,2015
+112,Jordan,33.70,2010
+112,Guinea,33.70,2012
+114,Armenia,33.60,2017
+115,Pakistan,33.50,2015
+116,United Kingdom,33.20,2015
+117,Mali,33.00,2009
+117,Bosnia and Herzegovina,33.00,2011
+119,Nepal,32.80,2010
+119,Tunisia,32.80,2015
+121,Estonia,32.70,2015
+121,France,32.70,2015
+123,Mauritania,32.60,2014
+124,Bangladesh,32.40,2016
+125,Mongolia,32.30,2016
+125,Switzerland,32.30,2015
+127,Japan,32.10,2008
+128,Montenegro,31.90,2014
+129,Ireland,31.80,2015
+129,Egypt,31.80,2015
+129,Poland,31.80,2015
+129,Lebanon,31.80,2011
+133,Germany,31.70,2015
+134,Korea,31.60,2012
+135,Croatia,31.10,2015
+136,São Tomé and Principe,30.80,2010
+137,Austria,30.50,2015
+138,Hungary,30.40,2015
+139,Iraq,29.50,2012
+140,Malta,29.40,2015
+141,Sweden,29.20,2015
+142,Albania,29.00,2012
+143,Timor-Leste,28.70,2014
+144,Denmark,28.20,2015
+144,Netherlands,28.20,2015
+146,Iceland,27.80,2014
+147,Belgium,27.70,2015
+148,Algeria,27.60,2011
+149,Norway,27.50,2015
+149,Kazakhstan,27.50,2017
+151,Kyrgyz Republic,27.30,2017
+152,Finland,27.10,2015
+153,Azerbaijan,26.60,2005
+154,Slovak Republic,26.50,2015
+155,Moldova,25.90,2017
+155,Czech Republic,25.90,2015
+157,Slovenia,25.40,2015
+157,Belarus,25.40,2017
+159,Ukraine,25.00,2016
